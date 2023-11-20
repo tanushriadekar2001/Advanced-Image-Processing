@@ -14,3 +14,4 @@
 	 Features for Image Processing: Include a variety of image processing methods within the web application so that users can apply critical image modifications, like noise reduction and picture enhancement, to the uploaded images. 
 	This frees users from the requirement for resource-intensive tools like MATLAB to edit and enhance the quality of their photographs. 
 
+# to run the file Image.py enter this command in cmd streamlit run Image,py
